@@ -1,0 +1,30 @@
+html,
+body {
+  margin: 0;
+  padding: 10px;
+  background-color: black;
+  color: white;
+   font-size: 12px;
+  font-family: "Arial", Arial, serif;
+}
+
+canvas {
+  display: block;
+}
+
+#result {
+  font-weight: bold;
+  font-size: 32px;
+  color: lightgreen;
+}
+
+#probability {
+  font-weight: bold;
+  font-size: 32px;
+  color: lightgreen;
+}
+
+#sketch-holder {
+  text-align: center;
+  transform: scale(1);
+}

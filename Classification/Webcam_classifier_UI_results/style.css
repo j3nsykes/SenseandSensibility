@@ -1,0 +1,29 @@
+html, body {
+  margin: 0;
+  padding: 10px;
+  background-color:black;
+  color:white;
+}
+canvas {
+  display: block;
+}
+#sketch-holder {
+  text-align: center;
+  transform: scale(0.9);
+}
+    video {
+      width: 300;
+      height: 300;
+    }
+
+    p {
+      display: inline;
+      font-size: 14px;
+    }
+
+    h6 {
+      margin: 4px;
+      font-weight: lighter;
+      font-size: 14px;
+      margin-bottom: 10px;
+    }
