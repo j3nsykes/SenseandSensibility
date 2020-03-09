@@ -1,3 +1,7 @@
+/*
+
+Adapted  Paul Maguire's CSV  read example and changed to only display labelled imagery 
+*/
 import processing.video.*;
 
 Movie movie;
