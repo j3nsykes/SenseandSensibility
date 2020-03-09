@@ -1,0 +1,31 @@
+html, body {
+  margin: 0;
+  padding: 10px;
+  background-color:white;
+  font-family: 'Source Code Pro',sans-serif ;
+  font-weight: 300;
+}
+canvas {
+  display: block;
+}
+
+#outputs
+{
+  position:absolute;
+  top:200px;
+  left:450px;
+
+}
+#sketch-holder {
+  text-align: center;
+ /* transform: scale(0.9);*/
+}
+
+#gui {
+  position: absolute;
+  top:0px;
+  left:450px;
+  width: 50%;
+  height: 50%;
+  float: left;
+}
