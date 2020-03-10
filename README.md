@@ -22,3 +22,4 @@ Much of the code used in examples has been adapted and expanded upon from origin
 * [Bérenger Recoules](https://github.com/b2renger/workshop_ml_PCD2019)
 * [Gene Kogan and ML4A](https://ml4a.github.io/demos/) 
 * [Runway + Cristóbal Valenzuela](https://runwayapp.ai/)
+* [George Profenza](https://github.com/orgicus)
