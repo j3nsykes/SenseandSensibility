@@ -23,3 +23,4 @@ Much of the code used in examples has been adapted and expanded upon from origin
 * [Gene Kogan and ML4A](https://ml4a.github.io/demos/) 
 * [Runway + Cristóbal Valenzuela](https://runwayapp.ai/)
 * [George Profenza](https://github.com/orgicus)
+* [Yining Shi](https://github.com/yining1023)
